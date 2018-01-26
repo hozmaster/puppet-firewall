@@ -1,0 +1,14 @@
+---
+version: 5
+defaults:
+    datadir: data
+    # data_hash: yaml_data
+    data_hash: "ntp::params"
+
+hierarchy:
+    #  - name: "NTP class parameter defaults"
+    #    data_hash: "ntp::params"
+    # We only need one hierarchy level, since one function provides all the data.
+  - name: "common"
+    path: "common.yaml"
+
