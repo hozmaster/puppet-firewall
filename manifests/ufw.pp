@@ -1,4 +1,4 @@
-class profile::ufw  {
+class foobar::ufw  {
     include ufw
 
     ufw::allow { "allow-ssh-from-all":
