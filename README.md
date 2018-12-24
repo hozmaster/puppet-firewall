@@ -9,7 +9,7 @@
 
 ## Description
 
-Mostly for testing puprpose only.
+Mostly for testing purpose only.
 
 However, there is manifest/ufw.pp manifects which code allow install ufw rule by shortcut items which are supported 
 by at least openssh and Apache. You may found this useful. 
