@@ -1,5 +1,5 @@
 {
-  "name": "puppet-firewall",
+  "name": "yedor-firewall",
   "version": "0.1.0",
   "author": "Olli-Pekka Wallin",
   "summary": "Basic iptables rules for puppet-firewall",
