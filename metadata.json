@@ -1,7 +1,7 @@
 {
-  "name": "test-foobar",
+  "name": "puppet-firewall",
   "version": "0.1.0",
-  "author": "test",
+  "author": "Olli-Pekka Wallin",
   "summary": null,
   "license": "Apache-2.0",
   "source": "",
