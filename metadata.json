@@ -2,7 +2,7 @@
   "name": "puppet-firewall",
   "version": "0.1.0",
   "author": "Olli-Pekka Wallin",
-  "summary": null,
+  "summary": "Basic iptables rules for puppet-firewall",
   "license": "Apache-2.0",
   "source": "",
   "project_page": null,
