@@ -1,4 +1,4 @@
-# foobar
+# puppet-firewall
 
 #### Table of Contents
 
@@ -20,4 +20,4 @@ Use via Puppetfile.
 
 ## Copyrigth
 
-Copyright by Olli-Pekka Wallin 2018
+Copyright by Olli-Pekka Wallin 2018-2019
