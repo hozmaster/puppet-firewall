@@ -1,5 +1,5 @@
 # default puppet firewall rules for puppet use
-class bs_firewalli::pre {
+class bs_firewall::pre {
   Firewall {
     require => undef,
   }
