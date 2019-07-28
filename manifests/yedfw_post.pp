@@ -1,5 +1,5 @@
 # default pre fw rule 
-class my_fw::post {
+class yed_fw::post {
 
   # drop all by default
   firewall { '999 drop all':
