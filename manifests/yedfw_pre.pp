@@ -1,5 +1,5 @@
 # default puppet firewall rules for puppet use
-class my_fw::pre {
+class yed_fw::pre {
   Firewall {
     require => undef,
   }
